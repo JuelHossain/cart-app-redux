@@ -1,2 +1,3 @@
 ## Simple Cart Application With Redux
-[check live site here](simple-shopping-cart-juelhossain)
+
+[check live site here](https://simple-shopping-cart-juelhossain.netlify.app)
